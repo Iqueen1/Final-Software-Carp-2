@@ -1,2 +1,4 @@
 # Final Software Carp 2
  MCNP GUI
+# I want to improve my abilities at generating input files for the radiation transport modeling software that runs on Windows DOS and is supported by MIT so that I can finish my final code project. The MCNP computer language has features that I want to use to make complex three-dimensional models. There will be a range of chemistries and geometrical features in these forms.
+# Following up on the skills and information I've gained during the course, my goal is to discover if Python can be used to construct an interface that is easy for people to use. With this tool, it would be easy to make input files that are saved as text files. That is, this method would make it easier for me to quickly change materials and geometries. This would make the process of improving my models more flexible and faster.
